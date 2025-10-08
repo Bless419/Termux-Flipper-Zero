@@ -132,7 +132,7 @@ pkg update && pkg upgrade -y
 pkg install git -y
 
 # Clone repository
-git clone https://github.com/yourusername/termuxflipper.git
+git clone https://github.com/Bless419/termuxflipper.git
 cd termuxflipper
 
 # Run installer
